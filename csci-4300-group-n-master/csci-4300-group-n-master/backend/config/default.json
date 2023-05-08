@@ -1,0 +1,5 @@
+{
+  "MongoDB": {
+    "connectionString": "mongodb+srv://csci4300:<password>@cluster0.alxefwe.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
